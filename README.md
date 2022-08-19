@@ -1,0 +1,5 @@
+#Sorting Visualizer
+
+##HOW TO RUN
+> OPEN INDEX.HTML FILE IN BROWSER
+
