@@ -2,6 +2,7 @@
     outline: none;
 }
 #algo-name{
+    color:rgb(134, 227, 42);
     font-family: cursive;
 }
 body {
@@ -75,7 +76,7 @@ body {
     background-color: mediumorchid;
 }
 .algo-btn:disabled{
-    opacity: 0.5;
+    opacity: 0.3;
     cursor:not-allowed;
     background-color: grey;
     color: white;
@@ -86,7 +87,10 @@ body {
     background-color: mediumspringgreen;
     color: black;
 }
-
+#stop{
+    background-color: rgb(223, 81, 81);
+    color: black;
+}
 #sort:hover, #randomize:hover {
     opacity: 0.9;
 }
